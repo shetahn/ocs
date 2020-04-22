@@ -6,7 +6,9 @@
   agh
 </details>
 Okay so, his name is Jack. Typical jock type, but he has layers. He's bisexual, and not ashamed to admit it. He has curly, fluffy hair, and brown eyes that anyone could get lost in. He could charm anyone into doing anything, which is why he's got by the whole school year without doing homework. He has a tiny, tiny bit of stubble, and not quite a chiseled six-pack, but a lightly defined six-pack. He has a muscular ass, with well trimmed hair on the cheeks, but insane hair and swamp ass in the asscrack, as he can't be bothered to trim it. He's known for being overly affectionate to his boyfriend, especially in public. However much he loves him, however, he'd never hold back his gas. And he never does.
+
 #### Sexuality & Body Type
+
 <table class="tg">
   <tr>
     <th class="tg-0pky">Sexuality<br></th>
@@ -23,7 +25,9 @@ Okay so, his name is Jack. Typical jock type, but he has layers. He's bisexual, 
     <td class="tg-0pky">Charming</td>
   </tr>
 </table>
+
 #### Strength & Appearance
+
 <table class="tg">
   <tr>
     <th class="tg-0pky">Strength<br></th>
