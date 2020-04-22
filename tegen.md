@@ -20,3 +20,16 @@
 </table>
 
 #### Mental
+
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Personality Type<br></th>
+    <th class="tg-0pky">Personality Details</th>
+    <th class="tg-0pky">Stability</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Flat</td>
+    <td class="tg-0pky">Sarcastic</td>
+    <td class="tg-0pky">3/4 Stable<br></td>
+  </tr>
+</table>
