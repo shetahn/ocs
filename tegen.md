@@ -1,5 +1,5 @@
 ### Tegen Walker
-![image](https://i.imgur.com/KoLVnc9.png)
+<img src="https://i.imgur.com/KoLVnc9.png" alt="a picture of tegen" height="350">
 
 #### Physical
 <table class="tg">
