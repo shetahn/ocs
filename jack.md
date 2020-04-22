@@ -23,3 +23,18 @@ Okay so, his name is Jack. Typical jock type, but he has layers. He's bisexual, 
     <td class="tg-0pky">Charming</td>
   </tr>
 </table>
+#### Strength & Appearance
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Strength<br></th>
+    <th class="tg-0pky">Hair Type</th>
+    <th class="tg-0pky">Hair Colour</th>
+    <th class="tg-0pky">Eye Colour</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">At least strong enough to lift someone.</td>
+    <td class="tg-0pky">Curly, thick.</td>
+    <td class="tg-0pky">Deep Brown<br></td>
+    <td class="tg-0pky">Deep-Hazel</td>
+  </tr>
+</table>
