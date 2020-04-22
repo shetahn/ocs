@@ -1,2 +1,2 @@
 ### Kai
-<img src="sample" alt="a picture of kai" height="350">
+<img src="https://i.imgur.com/uIRAs78.png" alt="a picture of kai" height="350">
