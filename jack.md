@@ -39,11 +39,9 @@
 
 <details>
   <summary>
-    
-   #### NSFW/Fetish Details
-    
-   </summary>
-  Has a muscular ass, lightly trimmed and barely noticeable hair on the asscheeks, immense hair in the asscrack, usually swampy, as he can't be bothered to trim it. Never holds back his gas, and is generally a gassy person.
+    NSFW/Fetish Details
+    </summary>
+  Has a muscular ass, lightly trimmed and barely noticeable hair on the asscheeks, immense hair in the asscrack, usually swampy, as he can't be bothered to trim it. Never holds back his gas, and is generally a gassy person. Farts every time he cums.
 </details>
 
 #### Other Details
