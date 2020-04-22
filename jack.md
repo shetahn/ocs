@@ -1,4 +1,4 @@
-### Jack
+### Jack Reyes
 <img src="https://i.imgur.com/SXj4IeS.png" alt="a picture of jack" height="250">
 
 #### Sexuality & Body Type
