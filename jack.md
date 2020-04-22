@@ -1,12 +1,6 @@
 ### Jack
 <img src="https://i.imgur.com/SXj4IeS.png" alt="a picture of jack" height="250">
 
-<details>
-  <summary>-</summary>
-  agh
-</details>
-Okay so, his name is Jack. Typical jock type, but he has layers. He's bisexual, and not ashamed to admit it. He has curly, fluffy hair, and brown eyes that anyone could get lost in. He could charm anyone into doing anything, which is why he's got by the whole school year without doing homework. He has a tiny, tiny bit of stubble, and not quite a chiseled six-pack, but a lightly defined six-pack. He has a muscular ass, with well trimmed hair on the cheeks, but insane hair and swamp ass in the asscrack, as he can't be bothered to trim it. He's known for being overly affectionate to his boyfriend, especially in public. However much he loves him, however, he'd never hold back his gas. And he never does.
-
 #### Sexuality & Body Type
 
 <table class="tg">
@@ -40,5 +34,31 @@ Okay so, his name is Jack. Typical jock type, but he has layers. He's bisexual, 
     <td class="tg-0pky">Curly, thick.</td>
     <td class="tg-0pky">Deep Brown<br></td>
     <td class="tg-0pky">Deep-Hazel</td>
+  </tr>
+</table>
+
+<details>
+  <summary>
+    
+   #### NSFW/Fetish Details
+    
+   </summary>
+  Has a muscular ass, lightly trimmed and barely noticeable hair on the asscheeks, immense hair in the asscrack, usually swampy, as he can't be bothered to trim it. Never holds back his gas, and is generally a gassy person.
+</details>
+
+#### Other Details
+
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Stubble<br></th>
+    <th class="tg-0pky">Affection<br></th>
+    <th class="tg-0pky">Personality<br></th>
+    <th class="tg-0pky">Friend Group<br></th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">A small bit of stubble, but mostly clean shaven.</td>
+    <td class="tg-0pky">Very affectionate towards his boyfriend, especially in public.</td>
+    <td class="tg-0pky">Generally a jock type, but genuinely nice, most of the time.</td>
+    <td class="tg-0pky">Hangs around his friends from the soccer team, mostly.</td>
   </tr>
 </table>
