@@ -58,7 +58,7 @@
     <td class="tg-0pky">A small bit of stubble, but mostly clean shaven.</td>
     <td class="tg-0pky">Very affectionate towards his boyfriend, especially in public.</td>
     <td class="tg-0pky">Generally a jock type, but genuinely nice, most of the time.</td>
-    <td class="tg-0pky">Caring, but can be cocky.</td>
+    <td class="tg-0pky">Caring, but can be cocky. Boyish.</td>
     <td class="tg-0pky">Hangs around his friends from the soccer team, mostly.</td>
   </tr>
 </table>
